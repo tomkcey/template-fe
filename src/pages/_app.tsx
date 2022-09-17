@@ -10,7 +10,7 @@ export default appWithTranslation(function App({
   return (
     <>
       <Head>
-        <title>Ui-Kit</title>
+        <title>Template FE</title>
       </Head>
       <Component {...pageProps} />
     </>
